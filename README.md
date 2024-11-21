@@ -15,6 +15,9 @@ XXX (_Guided project by @tinytechnicaltutorials_)
 
 ## Key Procedures
 1. Fork a GitHub repo (provided by @tinytechnicaltutorials)
+2. Create an S3 bucket
+3. Set up CodePipeline
+4. Commit a code change in GitHub
 
 ## Step-by-Step Walkthrough
 ### Step 1: XXX
