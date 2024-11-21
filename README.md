@@ -1,2 +1,2 @@
-# Building a Serverless Email Marketing App with SES
+# Connecting a Web App Running on EC2 with Aurora
 🛠️ Currently in progress...
